@@ -1,0 +1,46 @@
+{
+  "repository": "https://github.com/google/fonts",
+  "revision": "9710da1eacb3be272583c3224dcb70f9da6eadbb",
+  "files": {
+    "OldStandard-Regular.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/oldstandardtt/OldStandard-Regular.ttf",
+      "sha256": "42717a1280b523a506ca2b0285cca380e77fe214b1f6e3d75a8b925005f19eac"
+    },
+    "OldStandard-Bold.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/oldstandardtt/OldStandard-Bold.ttf",
+      "sha256": "7d831e9d799ad23ee98e889381a9db2a283b2dac7f228dd5c06071decb9c54db"
+    },
+    "OldStandard-Italic.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/oldstandardtt/OldStandard-Italic.ttf",
+      "sha256": "4b9522f4711317fc06e2413a58b4662c249cb707df193d682b9d640e365ef564"
+    },
+    "OldStandard-OFL.txt": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/oldstandardtt/OFL.txt",
+      "sha256": "4faa2d9e2ce0a4b5b37e62ee6fafe474a539b31578f7214ed97cc3503aeb8ebd"
+    },
+    "Anton-Regular.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/anton/Anton-Regular.ttf",
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    "Anton-OFL.txt": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/anton/OFL.txt",
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    "BebasNeue-Regular.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/bebasneue/BebasNeue-Regular.ttf",
+      "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73"
+    },
+    "BebasNeue-OFL.txt": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/bebasneue/OFL.txt",
+      "sha256": "72082f6cb4d04be2ecf7cc7d9e1e7d73787f0af8a5a278a47cade70c16b78341"
+    },
+    "SpecialElite-Regular.ttf": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/apache/specialelite/SpecialElite-Regular.ttf",
+      "sha256": "a776fcb4ceb8bdf03e2967688ebdad42680de5b91a7e62c17e718ae212d14bc4"
+    },
+    "SpecialElite-LICENSE.txt": {
+      "source": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/apache/specialelite/LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    }
+  }
+}
